@@ -1,0 +1,12 @@
+.Links {
+    display: flex;
+    justify-content: center;
+    background: linear-gradient( #871F78, #FF00FF);
+    height: 27px;
+}
+a {
+    padding-right: 3rem;
+    color: black;
+    text-decoration: none;
+    font-weight: 600;
+}
