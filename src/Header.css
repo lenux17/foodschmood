@@ -1,0 +1,17 @@
+.Header {
+  background-color: purple;
+  height: 50px;
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  justify-content: center;
+}
+.Logo {
+ background-position: center top;
+ display: flex;
+ width: 4rem;
+ height: 4rem;
+}
+.App-link {
+  color: #09d3ac;
+}
