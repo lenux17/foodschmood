@@ -1,0 +1,11 @@
+.container {
+    padding: 40px;
+    background: black;
+    background-image: linear-gradient(#FF00FF, #800080);
+}
+
+.slick-slide img {
+    margin: auto;
+    width: 45%;
+
+}
