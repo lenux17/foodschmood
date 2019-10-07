@@ -3,8 +3,8 @@ import "./App.css";
 import { Header } from "./Header";
 import { Links } from "./Links";
 import { Slider } from "./Slider";
-import { YCSection } from "./YCSection";
-import { DSection } from "./DSection";
+import { YourCatSection } from "./YourCatSection";
+import { DescriptionSection } from "./DescriptionSection";
 
 function App() {
   return (
@@ -12,8 +12,8 @@ function App() {
       <Header />
       <Links />
       <Slider />
-      <YCSection />
-      <DSection />
+      <YourCatSection />
+      <DescriptionSection />
     </div>
   );
 }

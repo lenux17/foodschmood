@@ -1,9 +1,9 @@
 import React, { Component } from "react";
-import "./YCSection.css";
+import "./YourCatSection.css";
 
-export const YCSection = () => {
+export const YourCatSection = () => {
   return (
-    <div className="YCSection">
+    <div className="YourCatSection">
       <h1>Your Cat</h1>
       <p>
         All cats - from small, fluffy balls to adults to feline seniors - are

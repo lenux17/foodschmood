@@ -1,9 +1,9 @@
 import React, { Component } from "react";
-import "./DSection.css";
+import "./DescriptionSection.css";
 
-export const DSection = () => {
+export const DescriptionSection = () => {
   return (
-    <div className="DSection">
+    <div className="DescriptionSection">
       <h1>Products #####</h1>
       <p>
         The nutritional needs of cats change throughout life, which is why #####
