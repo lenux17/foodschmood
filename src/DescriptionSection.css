@@ -1,0 +1,11 @@
+.DescriptionSection p {
+    width: 50rem;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: 500
+}
+
+.DescriptionSection {
+    background: linear-gradient(to top, #800080, white);
+}
