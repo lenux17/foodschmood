@@ -5,6 +5,7 @@ import { Links } from "./Links";
 import { Slider } from "./Slider";
 import { YourCatSection } from "./YourCatSection";
 import { DescriptionSection } from "./DescriptionSection";
+import { CatalogueSection } from "./CatalogueSection";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Slider />
       <YourCatSection />
       <DescriptionSection />
+      <CatalogueSection />
     </div>
   );
 }
