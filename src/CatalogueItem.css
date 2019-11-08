@@ -11,10 +11,16 @@
     padding: 7px;
     background: #ffb800;
     margin-top: 1rem;
+    margin-bottom: 2rem;
 }
 
 .Card div {
     display: flex;
     flex-direction: column;
     place-content: space-between;
+}
+
+.Card a:hover {
+    text-decoration: none;
+    background: #aaa6a6;
 }

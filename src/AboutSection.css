@@ -1,0 +1,32 @@
+.aboutSection {
+    display: flex;
+    justify-content: space-between;
+    background-color: #797979;
+    padding-bottom: 1rem;
+    line-height: 1.5rem;
+}
+
+.foodschmood {
+    display: grid;
+    padding-left: 25rem;
+}
+
+.aboutSection a {
+    padding: initial;
+    color: white;
+    font-size: 17px;
+}
+
+.products {
+    display: grid;
+    padding-right: 25rem;
+}
+
+.aboutSection h1 {
+    color: white;
+    font-weight: 650;
+}
+
+a:hover {
+    text-decoration: underline;
+}
