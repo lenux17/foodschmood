@@ -1,4 +1,4 @@
-.Card {
+.Cards {
     display: flex;
     margin: auto;
     text-align: center;
@@ -6,14 +6,14 @@
     background: #800080;
 }
 
-.Card a {
+.Cards a {
     border-radius: 15px;
     padding: 7px;
     background: #ffb800;
     margin-top: 1rem;
 }
 
-.Card div {
+.Cards div {
     display: flex;
     flex-direction: column;
     place-content: space-between;

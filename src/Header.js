@@ -1,6 +1,6 @@
-import React from 'react';
-import logo from './logo.png'
-import './Header.css';
+import React from "react";
+import logo from "./images/logo.png";
+import "./Header.css";
 
 export const Header = () => {
   return (
@@ -8,4 +8,4 @@ export const Header = () => {
       <img className="Logo" src={logo} />
     </div>
   );
-}
+};
