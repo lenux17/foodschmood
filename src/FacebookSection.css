@@ -6,9 +6,9 @@
 }
 
 .link {
-    width: 45px;
-    height: 45px;
-    position: absolute;
+    width: 35px;
+    height: 35px;
+    padding-left: 3rem;
 }
 
 .facebookSection h1 {

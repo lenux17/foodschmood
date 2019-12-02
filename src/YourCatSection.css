@@ -9,8 +9,9 @@
 
 .YourCatSection h1 {
     margin-top: auto;
+    padding-top: 5px;
 }
 
 .YourCatSection {
-    background: linear-gradient(to bottom, #800080, white);
+    background: #F1F1F1;
 }

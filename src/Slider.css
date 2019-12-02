@@ -1,7 +1,7 @@
 .container {
     padding: 40px;
-    background: black;
-    background-image: linear-gradient(#FF00FF, #800080);
+    background: #a80092;
+
 }
 
 .slick-slide img {
