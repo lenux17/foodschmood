@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.c1eb8068.chunk.css",
+    "main.js": "/my-app/static/js/main.19cb3901.chunk.js",
+    "main.js.map": "/my-app/static/js/main.19cb3901.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.ca31c260.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.ca31c260.js.map",
+    "static/css/2.8214311f.chunk.css": "/my-app/static/css/2.8214311f.chunk.css",
+    "static/js/2.ba886ce9.chunk.js": "/my-app/static/js/2.ba886ce9.chunk.js",
+    "static/js/2.ba886ce9.chunk.js.map": "/my-app/static/js/2.ba886ce9.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "precache-manifest.583c49452aca1430152d147f4df3690e.js": "/my-app/precache-manifest.583c49452aca1430152d147f4df3690e.js",
+    "service-worker.js": "/my-app/service-worker.js",
+    "static/css/2.8214311f.chunk.css.map": "/my-app/static/css/2.8214311f.chunk.css.map",
+    "static/css/main.c1eb8068.chunk.css.map": "/my-app/static/css/main.c1eb8068.chunk.css.map",
+    "static/media/balance.png": "/my-app/static/media/balance.6459b40d.png",
+    "static/media/cat1.png": "/my-app/static/media/cat1.4bfc3d15.png",
+    "static/media/cat2.jpg": "/my-app/static/media/cat2.c20a0bbb.jpg",
+    "static/media/facebook.png": "/my-app/static/media/facebook.465faff2.png",
+    "static/media/family.png": "/my-app/static/media/family.8812fb5b.png",
+    "static/media/fish-adult cat.png": "/my-app/static/media/fish-adult cat.0e4eea29.png",
+    "static/media/food-senior.png": "/my-app/static/media/food-senior.d92f1660.png",
+    "static/media/greyFacebook.png": "/my-app/static/media/greyFacebook.8babc68a.png",
+    "static/media/message.png": "/my-app/static/media/message.302bd1c7.png",
+    "static/media/milk-kitten.png": "/my-app/static/media/milk-kitten.a84283c4.png",
+    "static/media/slick-theme.css": "/my-app/static/media/slick.f97e3bbf.svg"
+  }
+}
