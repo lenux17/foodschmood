@@ -1,0 +1,21 @@
+.container {
+    padding: 40px;
+    background: #a80092;
+
+}
+
+.slick-slide img {
+    margin: auto;
+    width: 45%;
+    border-radius: 2rem;
+}
+
+.slick-next::before {
+    font-size: 40px;
+    position: relative;
+    right: 1rem;
+}
+
+.slick-prev::before {
+    font-size: 40px;
+}

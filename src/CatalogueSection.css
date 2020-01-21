@@ -1,0 +1,20 @@
+.Cards {
+    display: flex;
+    margin: auto;
+    text-align: center;
+    justify-content: space-evenly;
+    background: #a80092;
+}
+
+.Cards a {
+    border-radius: 15px;
+    padding: 7px;
+    background: #ffb800;
+    margin-top: 1rem;
+}
+
+.Cards div {
+    display: flex;
+    flex-direction: column;
+    place-content: space-between;
+}

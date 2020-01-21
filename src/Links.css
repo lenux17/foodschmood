@@ -1,0 +1,16 @@
+.Links {
+    display: flex;
+    justify-content: center;
+    background: #780068;
+    height: 27px;
+    z-index: 99;
+    position: sticky;
+    top: 0;
+}
+
+a {
+    padding-right: 3rem;
+    color: black;
+    text-decoration: none;
+    font-weight: 600;
+}
