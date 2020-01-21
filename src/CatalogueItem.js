@@ -6,7 +6,9 @@ export const CatalogueItem = props => {
     <div className="Card">
       <div>
         <h1>{props.text}</h1>
-        <img src={props.src} width="250" height="250" />
+        <div className="ImageContainer">
+          <img src={props.src} width="250" height="250" />
+        </div>
         <a href="#" class="button">
           See more >
         </a>

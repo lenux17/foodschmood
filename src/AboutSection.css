@@ -1,6 +1,6 @@
 .aboutSection {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     background-color: #797979;
     padding-bottom: 1rem;
     line-height: 1.5rem;
@@ -8,7 +8,6 @@
 
 .foodschmood {
     display: grid;
-    padding-left: 25rem;
 }
 
 .aboutSection a {
@@ -19,7 +18,6 @@
 
 .products {
     display: grid;
-    padding-right: 25rem;
 }
 
 .aboutSection h1 {
@@ -29,4 +27,10 @@
 
 a:hover {
     text-decoration: underline;
+}
+
+@media (max-width: 800px) {
+    .aboutSection {
+        flex-direction: column;
+    }
 }

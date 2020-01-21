@@ -10,7 +10,7 @@ import Message from "./images/message.png";
 export const Footer = () => {
   return (
     <div className="footer">
-      <div className="icon">
+      <div className="icons">
         <FooterItem src={Key} text="Privacy policy" />
         <FooterItem src={Arrow} text="Cookies" />
         <FooterItem src={Balance} text="Legal disclaimer" />
@@ -18,7 +18,6 @@ export const Footer = () => {
         <FooterItem src={Message} text="Contact" />
       </div>
       <p>©Copyrights by lenux17 2019.</p>
-      <button>Consent to cookies</button>
     </div>
   );
 };
